@@ -6,7 +6,7 @@ import timeit
 
 import tspinput
 
-RUNS = 3
+RUNS = 1
 
 data = tspinput.get(sys.argv[1])
 
