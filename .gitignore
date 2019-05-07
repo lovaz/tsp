@@ -1,2 +1,4 @@
 *.py[cdo]
 tsp*.txt
+/.project
+/.pydevproject
